@@ -1,0 +1,4 @@
+C:\Users\wolf\Desktop\minesweeper\minesweeper\bin\Release\minesweeper.exe
+C:\Users\wolf\Desktop\minesweeper\minesweeper\bin\Release\minesweeper.pdb
+C:\Users\wolf\Desktop\minesweeper\minesweeper\obj\x86\Release\minesweeper.exe
+C:\Users\wolf\Desktop\minesweeper\minesweeper\obj\x86\Release\minesweeper.pdb

@@ -1,0 +1,5 @@
+C:\Users\wolf\Desktop\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+C:\Users\wolf\Desktop\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+C:\Users\wolf\Desktop\minesweeper\minesweeper\obj\x86\Debug\minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\wolf\Desktop\minesweeper\minesweeper\obj\x86\Debug\minesweeper.exe
+C:\Users\wolf\Desktop\minesweeper\minesweeper\obj\x86\Debug\minesweeper.pdb
